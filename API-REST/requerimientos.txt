@@ -1,0 +1,12 @@
+Requerimientos :
+
+1.- Instalar python3 en GNU/Linux Ubuntu o basadas en debian directamente en la terminal como : 
+    a)sudo apt-get update 
+    b)sudo apt-get install python3
+    c)python3 --version
+2.- Instalar el gestor de paquetes de python 3 "pip" para python3 como :      sudo apt install python3-pip
+3.- Instalar el módulo Flask con : pip3 install Flask
+4.- Instalar el módulo restful con : pip3 install flask-restful
+5.- Ejecutar archivo api.py como: python3 api.py 
+6.- Abrir la siguiente ruta en un navegador web :  http://127.0.0.1:5000/
+
